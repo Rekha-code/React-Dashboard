@@ -1,0 +1,39 @@
+.logo {
+  width: 84px;
+  height: 73px;
+  margin-top: 40px;
+}
+
+.container {
+  border-radius: 30px;
+  margin-top: 80px;
+  width: 800px;
+}
+
+.content {
+  background-color: lightgrey;
+}
+
+.input-box {
+  border-radius: 25px;
+  box-shadow: 5px 5px 10px;
+  background: rgb(205, 192, 192);
+  padding: 10px;
+}
+
+.btn-lg {
+  border-radius: 25px;
+  box-shadow: 5px 5px 10px;
+}
+
+.side-img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.img-fluid {
+  margin-left: 36%;
+  margin-top: 110px;
+  width: 151px;
+  height: 151px;
+}

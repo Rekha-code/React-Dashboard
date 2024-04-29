@@ -1,0 +1,52 @@
+
+
+{
+  "apps": [
+    {
+      "name": "Recycle Bin",
+      "icon": "Diary.png",
+      "id": 1
+    },
+    {
+      "name": "Calendar",
+      "icon": "Calender.png",
+      "id": 2
+    },
+    {
+      "name": "GoogleChrome",
+      "icon": "GoogleChrome.png",
+      "id": 2
+    },
+    {
+      "name": "EmptyBin",
+      "icon": "EmptyBin.png",
+      "id": 2
+    }
+  ],
+  "options": [
+    {
+      "name": "Add Folder",
+      "id": 1,
+      "img":"Product_Cart.svg"
+    },
+    {
+      "name": "Add File",
+      "id": 2,
+      "img":"Product_list_icon.svg",
+      "subOptions": [
+        {
+          "name": "Word",
+          "id": 3
+        },
+        {
+          "name": "Excel",
+          "id": 4
+        },
+        {
+          "name": "PowerPoint",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
